@@ -150,3 +150,9 @@ body{
 .hidden{
     display: none;
 }
+.normal {
+    color: #16a34a;
+}
+.attention {
+    color: #dc2626;
+}
